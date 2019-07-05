@@ -1,0 +1,204 @@
+.container {
+}
+body {
+  /**font-size: 17px;**/
+}
+
+#body-2 {
+  text-align: center;
+}
+#heading-2 {
+  text-align: center;
+  color: #80cbc4;
+}
+h3 {
+  font-size: 23px;
+  color: #80cbc4;
+}
+#features {
+  background-color: rgba(245, 247, 252, 1);
+  height: 300px;
+}
+p {
+  color: #4d4d4d;
+}
+h2 {
+  font-size: 27px;
+  color: #80cbc4;
+  line-height: 40px;
+}
+#ipad-gif {
+  margin-left: 90px;
+  position: absolute;
+  top: 6%;
+  left: 12.5%;
+  height: 500px;
+  box-shadow: ;
+}
+#integration {
+  padding-top: 60px;
+}
+#integration a {
+  text-decoration: none;
+  color: #b2dfdb;
+}
+#integration-side {
+  background-color: rgba(245, 247, 252, 1);
+}
+#feature {
+  text-align: center;
+}
+.pricing {
+  max-width: 750px;
+  float: none;
+  max-width: 970px;
+  margin: 0 auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.visitor-price {
+  background-image: linear-gradient(-56deg, #4db6ac 0, #004d40 100%);
+  padding: 50px 0 70px;
+  margin-bottom: 50px;
+}
+.price-card {
+  background-color: #ffffff;
+  border-radius: 5px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.pricing h2 {
+  text-align: center;
+}
+.price-card h4 {
+  margin: 50px, 0;
+  font-family: Helvetica;
+  color: #32325d;
+}
+h4 {
+  font-size: 18px;
+}
+#image-card h2,
+p {
+  text-align: center;
+}
+#bg-image {
+  /** background-image: url(https://www.sequr.io/hubfs/Sequr_November2018%20Theme/Images/bg-hero.jpg);*/
+
+  height: 886px;
+  width: 1000px;
+}
+#demo-box {
+  background-color: rgba(245, 247, 252, 1);
+  padding: 85px 0 100px 0;
+}
+#demo-box h3 {
+  margin: 0 0 0 10px;
+  font-size: 29px;
+}
+#demo-box p {
+  font-size: 27px;
+}
+.btn-white {
+  background-color: #ffffff;
+  color: #009688;
+}
+.button-class {
+  margin-top: 30px;
+  padding-top: 15px;
+  text-align: right;
+}
+.subscribe h3 {
+  color: 004d40;
+  font-size: 16px;
+}
+.footer-copyright p a {
+  margin-left: 10px;
+}
+.footer-copyright p {
+  color: #a5adba;
+  letter-spacing: 0;
+  margin: 0;
+  padding-top: 15px;
+}
+
+#header-image {
+  max-width: 1347px;
+  max-height: 800px;
+}
+.slant-image {
+  position: absolute;
+  left: 700px;
+  top: 60px;
+  z-index: 1;
+}
+.welcome {
+  width: 420px;
+  margin-left: 200px;
+  margin-top: 100px;
+  position: absolute;
+  left: opx;
+  top: 100px;
+  z-index: 1;
+}
+.welcome h1 {
+  color: #ffffff;
+  font-size: 48px;
+  line-height: 1;
+  font-weight: 300;
+}
+.welcome div p {
+  width: 400px;
+  font-size: 25px;
+  color: #b2dfdb;
+  margin-top: 10px;
+}
+#addcard {
+  color: #fafafa;
+  font-size: 40px;
+  margin: 27px;
+}
+.card-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: #00695c;
+  background-image: linear-gradient(90deg, #00695c, #e0f2f1);
+}
+.navbar {
+  width: 1347px;
+  background-color: #4db6ac;
+}
+#navb {
+  background-color: #4db6ac;
+}
+.brand-logo {
+  color: #e0f2f1;
+  font-size: 40px;
+  margin-left: 100px;
+}
+.content-col {
+  text-align: left;
+  padding-top: 0px;
+  padding-right: 15px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  float: none;
+  width: 100% !important;
+  margin-left: 0 !important;
+}
+.img-col img {
+  position: relative;
+  top: auto;
+  right: auto;
+  height: auto;
+  margin: 0 auto 50px;
+  display: block;
+  vertical-align: bottom;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+  .bg_image {
+    max-width: 10%;
+  }
+}
